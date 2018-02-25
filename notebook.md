@@ -24,6 +24,8 @@
 * 2018/02/04 practiced Vim/Linux shell commands with previous tutorial
 * 2018/02/08 attempted to run exercises on Windows 10 natively; unsuccessful.
 * 2018/02/14 redid exercise to develop REST service with Eve
+* Installed spark. 
+* write tutorial for installing single-node HDFS cluster
 
 # Writing
 
