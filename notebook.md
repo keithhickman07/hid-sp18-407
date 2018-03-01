@@ -18,6 +18,7 @@
 * 2018/02/03 Read mongodb documentation and tutorials 
 * 2018/02/12 Read Spark handbook/tutorial
 * 2018/02/14 researched articles explaining RESTful API development and use case
+* 2018/02/28 conducted open-source research
 
 # Practice
 * 2018/01/25 Downloaded Virtual box and installed linux ubuntu vm on Windows laptop
